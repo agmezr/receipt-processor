@@ -1,0 +1,16 @@
+{
+    "retailer": "0123456789",
+    "purchaseDate": "2022-03-21",
+    "purchaseTime": "14:33",
+    "items": [
+        {
+            "shortDescription": "123",
+            "price": "1.25"
+        },
+        {
+            "shortDescription": "abc123",
+            "price": "1.99"
+        }
+    ],
+    "total": "100.00"
+}

@@ -1,0 +1,10 @@
+/venv
+README.md
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+coverage.xml
+*.cover
+.git
+
